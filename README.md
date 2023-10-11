@@ -1,4 +1,4 @@
-# The MyBike landing
+# The SportBikes landing
   - [DEMO LINK](https://oleksandrshtonda.github.io/mybike-landing/)
   - [FIGMA LINK](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
